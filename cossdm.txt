@@ -1,0 +1,9 @@
+Q1 3)
+/COSSDM$ tty
+/dev/pts/0
+Q1 2)
+COSSDM$ whoami
+sunbeam
+Q1 4)
+echo "1.5 + 1.5" | bc
+3.0
